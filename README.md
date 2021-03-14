@@ -1,1 +1,1 @@
-repo-gui
+pandas+numpy with anaconda(python)
